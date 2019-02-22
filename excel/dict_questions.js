@@ -1,0 +1,20 @@
+var dict_questions=[
+  {
+    id:1,
+    answers:[0,0,0,0,0],
+    result:4,
+    desc:"描述1"
+  },
+  {
+    id:2,
+    answers:[0,0,0,0,1],
+    result:1,
+    desc:"描述2"
+  },
+  {
+    id:3,
+    answers:[0,0,0,0,2],
+    result:4,
+    desc:"描述3"
+  },
+];

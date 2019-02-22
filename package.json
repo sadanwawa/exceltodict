@@ -1,0 +1,27 @@
+{
+  "name": "exceltodict",
+  "version": "1.0.4",
+  "description": "",
+  "bin": {
+    "exd": "index.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "excel",
+    "导出",
+    "字典",
+    "json",
+    "xlsx"
+  ],
+  "dependencies": {
+    "node-xlsx": "^0.14.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.1"
+  },
+  "author": "ycma <410710575@qq.com>",
+  "license": "ISC"
+}

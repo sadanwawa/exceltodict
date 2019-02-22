@@ -1,0 +1,23 @@
+var dict_users=[
+  {
+    id:1,
+    name:"小明",
+    age:11,
+    rate:0.1,
+    desc:"用户1"
+  },
+  {
+    id:2,
+    name:"小红",
+    age:13,
+    rate:0.5,
+    desc:"用户2"
+  },
+  {
+    id:3,
+    name:"小李",
+    age:15,
+    rate:0.8,
+    desc:"用户3"
+  },
+];
